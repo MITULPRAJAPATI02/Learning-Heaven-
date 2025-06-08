@@ -1,0 +1,33 @@
+section.courses {
+	width: 100%;
+	padding: 100px 8% 20px;
+}
+
+.section-header {
+	position: relative;
+	display: flex;
+	justify-content: space-between;
+}
+
+.courseText {
+	display: flex;
+	gap: 10px;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 20px;
+}
+
+.courseText p {
+	text-align: justify;
+	flex: 1;
+	width: 50%;
+}
+
+
+.courses-btn {
+	background-color: var(--primary-clr);
+	color: white;
+	border: none;
+	width: 100px;
+	margin-top: -2px;
+}
