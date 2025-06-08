@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Learning-Heaven
 An educational technology website built to enhance student learning and engagement through structured content and a user-friendly interface.
 
@@ -67,3 +68,9 @@ npm install
 # Start local host
 npm run dev
 >>>>>>> cde0b35 (learning heaven)
+=======
+<h1> Learing Heaven </h1>
+<h3>It is an educational technology website to enhance student learning and engagement.</h3>
+<h1 > Website is live here : </h1>
+https://learning-heaven.vercel.app/
+>>>>>>> 34e2efde1c11f7c293145d5e9dbea186c0cdd1e3
